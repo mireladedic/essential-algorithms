@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/BinarnoPretrazi.h
+NizListaImplementacija.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/NizListaImplementacija.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/BinarnoPretraziImplementacija.h
+BinarnoPretrazi.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/BinarnoPretrazi.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/Lista.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/NizLista.h
+Lista.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/Lista.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/NizListaImplementacija.h
+NizLista.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/NizLista.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/main.cpp
+iostream
+-
+algorithm
+-
+stdexcept
+-
+BinarnoPretraziImplementacija.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/BinarnoPretrazivanje/BinarnoPretraziImplementacija.h
+

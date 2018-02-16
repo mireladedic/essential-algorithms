@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512167634 source:c:\users\mirela\desktop\algoritmi i strukture podataka\knjiga\dvostrukalistafc\main.cpp
+	<iostream>
+	<stdexcept>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512391346 source:c:\users\mirela\desktop\algoritmi i strukture podataka\knjiga\steklista\main.cpp
+	<iostream>
+	<stdexcept>
+

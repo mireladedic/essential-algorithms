@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512155600 source:c:\users\mirela\desktop\algoritmi i strukture podataka\knjiga\jednostrukalista\main.cpp
+	<iostream>
+	<stdexcept>
+

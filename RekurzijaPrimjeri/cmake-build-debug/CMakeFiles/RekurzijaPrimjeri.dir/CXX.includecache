@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/RekurzijaPrimjeri/RekurzivneFunkcije.h
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/RekurzijaPrimjeri/main.cpp
+iostream
+-
+RekurzivneFunkcije.h
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/RekurzijaPrimjeri/RekurzivneFunkcije.h
+

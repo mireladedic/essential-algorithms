@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mirela/Desktop/ALGORITMI I STRUKTURE PODATAKA/Knjiga/Hash_OtvorenoAdresiranje/main.cpp
+iostream
+-
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510191539 source:c:\users\mirela\desktop\algoritmi i strukture podataka\lista_3\main.cpp
+	<iostream>
+	<stdexcept>
+	<algorithm>
+

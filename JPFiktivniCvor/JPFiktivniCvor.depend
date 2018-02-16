@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512165413 source:c:\users\mirela\desktop\algoritmi i strukture podataka\knjiga\jpfiktivnicvor\main.cpp
+	<iostream>
+	<stdexcept>
+
